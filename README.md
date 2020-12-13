@@ -1,2 +1,2 @@
 # UCLA-notes
-my bland (but adequate) lecture notes
+bland (but adequate) lecture notes
