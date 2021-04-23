@@ -1,7 +1,7 @@
 # UCLA-notes
 bland (but adequate) lecture notes
 
-дефектный:
+неполный:
 - Math 61
 - Math 131AB
 - Math 134
