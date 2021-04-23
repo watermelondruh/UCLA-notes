@@ -2,6 +2,8 @@
 bland (but adequate) lecture notes
 
 неполный:
+- CS M146
+- CS 180
 - Math 61
 - Math 131AB
 - Math 134
